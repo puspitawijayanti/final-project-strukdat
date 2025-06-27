@@ -1,7 +1,7 @@
 # Final Project Struktur Data 2025
 
 ### Anggota
-| NIM        | Nama                     |
+| NRP        | Nama                     |
 |------------|--------------------------|
 | 5025241059 | Puspita Wijayanti Kusuma |
 | 5025241060 | Christina Tan              |
