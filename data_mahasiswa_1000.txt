@@ -1,0 +1,1000 @@
+5027906712,Kasim Sudiati,Arsitektur,2024
+5027188293,Candrakanta Wibowo,Manajemen,2019
+5027611856,Hardana Saptono,Arsitektur,2020
+5027744173,Gaiman Yulianti,Manajemen,2023
+5027620969,Shania Wijaya,Teknik Informatika,2022
+5027696648,H. Caket Pratama, S.Ked,Teknik Informatika,2021
+5027620323,Nabila Mandasari,Teknik Industri,2021
+5027339081,Nabila Tamba,Teknik Elektro,2019
+5027630925,Kayla Gunawan,Sistem Informasi,2021
+5027502219,Nabila Ramadan,Teknik Industri,2025
+5027409457,Raina Oktaviani,Desain Produk,2023
+5027723062,Cakrabirawa Anggraini,Desain Produk,2023
+5027446306,Jayadi Kuswandari,Desain Produk,2022
+5027329520,Najib Usada,Sistem Informasi,2024
+5027853960,Zelaya Prakasa,Teknik Informatika,2024
+5027907069,Mila Usada,Manajemen,2022
+5027863890,R.A. Titi Wijayanti, S.Gz,Arsitektur,2021
+5027937816,Kemal Natsir,Manajemen,2021
+5027879900,Jayadi Mardhiyah,Ilmu Komunikasi,2019
+5027760183,Hj. Putri Pudjiastuti,Sistem Informasi,2025
+5027308436,Hj. Ina Maryati, S.Pt,Ilmu Komunikasi,2020
+5027296106,Sutan Yosef Zulkarnain,Akuntansi,2020
+5027482020,Kambali Handayani, M.Farm,Desain Produk,2019
+5027844176,Rachel Uyainah,Manajemen,2022
+5027492238,Tgk. Suci Oktaviani,Manajemen,2024
+5027946632,dr. Eva Puspita, M.TI.,Teknik Informatika,2022
+5027295999,R.A. Yessi Wibowo, S.E.I,Sistem Informasi,2019
+5027440097,Cakrawangsa Wibowo,Desain Produk,2023
+5027308792,H. Gatot Saptono, S.H.,Desain Produk,2022
+5027216641,Imam Hardiansyah,Teknik Industri,2021
+5027289684,H. Taswir Palastri, S.I.Kom,Sistem Informasi,2023
+5027187412,Titin Waluyo,Sistem Informasi,2020
+5027453012,Bajragin Nainggolan,Ilmu Komunikasi,2025
+5027533506,Zulaikha Rahimah, S.Farm,Akuntansi,2024
+5027650465,R. Gambira Safitri,Teknik Industri,2019
+5027271614,Alambana Agustina,Sistem Informasi,2025
+5027486128,Wage Haryanti,Ilmu Komunikasi,2023
+5027802046,Rahmat Utama,Teknik Industri,2023
+5027840708,Kezia Hidayat,Manajemen,2019
+5027474259,Tira Laksmiwati, S.I.Kom,Manajemen,2025
+5027842364,Lala Melani, M.Ak,Teknik Industri,2021
+5027433845,Yulia Pudjiastuti, S.H.,Desain Produk,2020
+5027614521,Tgk. Bagus Maheswara, S.Ked,Ilmu Komunikasi,2023
+5027121505,Maria Oktaviani,Arsitektur,2024
+5027511270,drg. Hana Napitupulu, S.E.I,Desain Produk,2025
+5027754546,Bakijan Mardhiyah,Arsitektur,2020
+5027451106,Elisa Maheswara, S.Farm,Manajemen,2020
+5027172380,Margana Hutagalung,Desain Produk,2023
+5027657337,Irma Uwais,Ilmu Komunikasi,2021
+5027463980,Parman Nashiruddin,Teknik Informatika,2019
+5027171667,Wani Pranowo, S.Psi,Desain Produk,2021
+5027816603,R. Wakiman Prasasta,Akuntansi,2020
+5027533932,Laswi Rajata,Sistem Informasi,2020
+5027220969,Umi Sirait,Teknik Elektro,2022
+5027739201,Drs. Rina Prasasta, M.Ak,Teknik Elektro,2022
+5027784317,Yance Prasetya, S.Gz,Sistem Informasi,2019
+5027671353,Baktianto Suryatmi,Akuntansi,2021
+5027652350,Nasim Winarno,Ilmu Komunikasi,2024
+5027539173,Salwa Kuswoyo,Teknik Industri,2021
+5027458179,Vino Utami,Sistem Informasi,2019
+5027270194,Tari Thamrin,Teknik Informatika,2025
+5027676277,Shania Hartati,Teknik Industri,2025
+5027764366,Artawan Pradipta,Sistem Informasi,2025
+5027189889,Yulia Puspasari,Teknik Informatika,2021
+5027187810,Drs. Fitria Iswahyudi,Teknik Informatika,2023
+5027896210,Safina Halimah,Akuntansi,2020
+5027556781,Halima Samosir,Ilmu Komunikasi,2025
+5027198184,Zaenab Budiman,Manajemen,2019
+5027571615,Hj. Indah Setiawan, M.Pd,Teknik Industri,2023
+5027661001,Humaira Nababan,Ilmu Komunikasi,2024
+5027149660,Elvin Hutasoit,Teknik Industri,2023
+5027784422,Daru Lazuardi,Manajemen,2021
+5027633894,Asirwada Maheswara,Akuntansi,2024
+5027628496,Irma Ramadan,Desain Produk,2022
+5027990908,Galar Waluyo,Teknik Industri,2019
+5027245632,Cut Indah Salahudin, M.M.,Manajemen,2019
+5027169195,Bella Wacana,Sistem Informasi,2022
+5027222917,Narji Winarsih,Desain Produk,2019
+5027665722,Dr. Pia Anggriawan, M.M.,Teknik Elektro,2021
+5027739972,Dr. Kani Uwais, S.Pt,Manajemen,2022
+5027167333,Mustofa Habibi, S.Pt,Manajemen,2019
+5027511464,Jaswadi Putra,Teknik Elektro,2024
+5027154835,Latika Safitri,Arsitektur,2025
+5027177547,Dt. Adinata Mansur, S.E.,Teknik Industri,2020
+5027333570,Hesti Hasanah, M.Farm,Arsitektur,2024
+5027590753,drg. Eva Suryono,Teknik Informatika,2020
+5027658322,Kunthara Rahimah,Desain Produk,2023
+5027417055,Tgk. Rina Halim, S.Ked,Akuntansi,2020
+5027425867,Tgk. Daliono Haryanto, S.Ked,Akuntansi,2022
+5027753177,Vivi Sudiati,Sistem Informasi,2019
+5027965104,Kambali Lazuardi,Teknik Informatika,2021
+5027782698,Prabawa Mulyani,Manajemen,2024
+5027246951,dr. Mutia Pradipta, S.H.,Sistem Informasi,2019
+5027655513,Cut Lili Wacana, S.H.,Teknik Industri,2025
+5027466842,Jais Wahyudin,Teknik Industri,2025
+5027196971,KH. Nrima Wahyuni, S.H.,Teknik Industri,2024
+5027388507,Hj. Nilam Prabowo, S.E.,Sistem Informasi,2025
+5027421827,Carla Situmorang,Sistem Informasi,2024
+5027638378,H. Saka Suryatmi,Teknik Industri,2020
+5027240826,drg. Caket Waskita, S.Sos,Arsitektur,2019
+5027132090,Lidya Purwanti,Manajemen,2025
+5027512917,Salsabila Simanjuntak,Manajemen,2023
+5027657312,Tira Tampubolon, S.Kom,Arsitektur,2019
+5027352884,H. Baktianto Latupono, S.Gz,Sistem Informasi,2020
+5027181047,Pia Riyanti,Ilmu Komunikasi,2024
+5027604590,Anita Firgantoro,Desain Produk,2021
+5027325772,Zaenab Narpati,Manajemen,2019
+5027579252,Garan Nashiruddin,Teknik Informatika,2023
+5027923091,Puji Wijayanti,Ilmu Komunikasi,2020
+5027975317,Okta Sihotang,Teknik Industri,2024
+5027723516,drg. Eka Prakasa, S.Ked,Sistem Informasi,2019
+5027611532,Gatra Wijaya,Akuntansi,2020
+5027540357,H. Abyasa Firgantoro,Ilmu Komunikasi,2021
+5027542532,Mahdi Tamba,Teknik Informatika,2023
+5027778106,Ida Suryono,Sistem Informasi,2025
+5027968812,Kalim Mangunsong,Teknik Industri,2023
+5027369026,Intan Saptono, M.M.,Sistem Informasi,2023
+5027684628,Harto Yuniar,Manajemen,2025
+5027288044,Ulya Sihombing,Teknik Informatika,2022
+5027746886,R.A. Endah Mansur,Akuntansi,2019
+5027640664,Jagapati Dabukke, S.Gz,Sistem Informasi,2021
+5027864493,Lulut Pangestu,Ilmu Komunikasi,2025
+5027197099,Nova Haryanto, S.Psi,Teknik Industri,2023
+5027380488,dr. Betania Mandasari,Teknik Elektro,2022
+5027858977,Damu Pratama,Desain Produk,2025
+5027754181,Hafshah Sihombing, S.T.,Teknik Informatika,2024
+5027511952,R.M. Agus Nasyiah, S.Sos,Desain Produk,2019
+5027714338,R. Michelle Pangestu,Sistem Informasi,2025
+5027922980,Halima Wibowo,Teknik Informatika,2019
+5027162087,Puji Rajasa,Teknik Industri,2023
+5027397939,drg. Novi Santoso,Teknik Informatika,2025
+5027599480,Drs. Vinsen Permata, S.Gz,Arsitektur,2025
+5027345657,Jane Hasanah,Teknik Informatika,2024
+5027691250,Chelsea Aryani,Teknik Industri,2020
+5027386489,R. Hasim Manullang,Teknik Elektro,2022
+5027728527,Zulaikha Marpaung,Teknik Informatika,2025
+5027334330,Hj. Ade Widiastuti,Teknik Informatika,2022
+5027902226,Elvin Prakasa,Ilmu Komunikasi,2022
+5027317789,R.M. Lanang Prabowo, M.Ak,Teknik Informatika,2023
+5027815378,Eka Pangestu,Ilmu Komunikasi,2025
+5027649165,Drs. Kuncara Latupono, S.Sos,Arsitektur,2022
+5027392638,Aisyah Waluyo,Manajemen,2021
+5027790146,Eka Maulana,Manajemen,2023
+5027817857,Indah Safitri,Arsitektur,2022
+5027794190,H. Panca Handayani,Sistem Informasi,2019
+5027277185,R.M. Ihsan Thamrin,Teknik Industri,2021
+5027703333,Darmana Wijayanti, M.Farm,Ilmu Komunikasi,2019
+5027128101,Yahya Riyanti,Teknik Informatika,2019
+5027252909,Suci Namaga,Arsitektur,2020
+5027284432,Salsabila Permadi, S.Gz,Teknik Elektro,2019
+5027599311,Drs. Karimah Siregar,Desain Produk,2024
+5027439942,Cut Unjani Tamba, S.H.,Sistem Informasi,2025
+5027637238,Raisa Wulandari,Ilmu Komunikasi,2024
+5027987674,Hj. Dina Iswahyudi,Teknik Industri,2020
+5027492077,Cut Kezia Najmudin,Teknik Elektro,2025
+5027311802,Digdaya Narpati,Arsitektur,2023
+5027993491,Ajeng Pangestu, S.I.Kom,Akuntansi,2025
+5027658208,R.A. Farah Wibowo,Desain Produk,2024
+5027493379,Winda Wahyuni,Akuntansi,2024
+5027468740,drg. Novi Sitompul, S.Ked,Ilmu Komunikasi,2024
+5027748869,Cut Anita Sitorus,Arsitektur,2019
+5027189696,Nadine Simanjuntak,Teknik Informatika,2022
+5027711253,Puspa Kuswandari,Teknik Elektro,2025
+5027129053,Kania Yuliarti,Teknik Industri,2025
+5027384948,Maya Prayoga, M.Farm,Ilmu Komunikasi,2020
+5027752718,Almira Hardiansyah,Arsitektur,2024
+5027380662,Harjo Saragih,Manajemen,2021
+5027185569,Lantar Laksita,Teknik Informatika,2020
+5027619268,Asirwanda Mustofa, S.Ked,Akuntansi,2025
+5027888593,Wasis Nurdiyanti,Akuntansi,2025
+5027274361,Tasdik Melani,Ilmu Komunikasi,2020
+5027481806,Raisa Yuniar,Teknik Elektro,2021
+5027282695,Bagya Puspita,Desain Produk,2021
+5027760341,Lala Lestari,Arsitektur,2020
+5027140759,Mila Suartini,Desain Produk,2021
+5027443111,Sutan Joko Mustofa,Teknik Industri,2019
+5027273466,Sidiq Widiastuti,Teknik Industri,2024
+5027663089,Ir. Lala Namaga, S.Gz,Akuntansi,2021
+5027249680,Galih Yuniar,Manajemen,2022
+5027680425,Ir. Bakiono Pradipta, M.TI.,Teknik Elektro,2019
+5027266765,Belinda Winarsih,Ilmu Komunikasi,2020
+5027935397,Lega Irawan,Teknik Industri,2023
+5027916426,Kania Tamba,Sistem Informasi,2022
+5027438488,Harja Pradipta,Desain Produk,2023
+5027776803,Ifa Riyanti,Teknik Elektro,2021
+5027270246,Ir. Vicky Zulkarnain, S.T.,Manajemen,2021
+5027773185,Prayoga Wasita,Teknik Industri,2020
+5027258359,Atma Hutasoit,Teknik Elektro,2020
+5027783694,Gabriella Wahyudin,Manajemen,2019
+5027114113,Aisyah Marpaung,Teknik Elektro,2019
+5027464980,Tgk. Farah Sihombing, S.Pt,Teknik Informatika,2021
+5027553020,Ikin Mardhiyah,Teknik Elektro,2023
+5027502419,R.A. Nabila Hartati,Teknik Informatika,2024
+5027903698,Heryanto Narpati,Akuntansi,2025
+5027898415,Hj. Suci Wibowo,Teknik Elektro,2024
+5027303078,Tgk. Shania Siregar, S.Farm,Akuntansi,2023
+5027936721,Galak Irawan,Sistem Informasi,2021
+5027966079,Nardi Wibowo,Teknik Informatika,2021
+5027881714,Arsipatra Yuliarti,Sistem Informasi,2020
+5027725623,Martani Adriansyah,Manajemen,2022
+5027486963,Drs. Okta Tamba,Akuntansi,2021
+5027476062,Mujur Widodo,Manajemen,2020
+5027998693,Ir. Wawan Budiyanto, S.Psi,Teknik Informatika,2019
+5027110135,Rini Waluyo,Ilmu Komunikasi,2022
+5027225272,Kasiyah Setiawan,Teknik Elektro,2020
+5027908683,Hesti Kuswoyo,Teknik Industri,2019
+5027298010,Sakura Hidayat,Arsitektur,2020
+5027743182,Dt. Usman Nuraini, S.H.,Teknik Informatika,2021
+5027193175,Darimin Saptono,Sistem Informasi,2021
+5027664287,Titin Manullang,Desain Produk,2025
+5027574749,Sabrina Pangestu,Teknik Industri,2024
+5027326033,Syahrini Puspita,Sistem Informasi,2023
+5027129974,Anastasia Suryatmi,Akuntansi,2023
+5027445917,R.A. Kasiyah Hutapea,Manajemen,2025
+5027657147,Mahmud Halimah,Arsitektur,2024
+5027161374,Jais Suryatmi,Ilmu Komunikasi,2025
+5027277899,Timbul Usamah,Desain Produk,2019
+5027757443,Agnes Yuliarti,Teknik Industri,2019
+5027865956,Novi Lazuardi,Sistem Informasi,2019
+5027286528,drg. Fathonah Najmudin,Manajemen,2019
+5027959867,Cecep Wibisono,Desain Produk,2025
+5027544476,Kalim Suwarno,Teknik Industri,2021
+5027270277,Qori Dongoran,Akuntansi,2024
+5027713651,Paulin Prayoga,Desain Produk,2024
+5027915405,Najwa Suartini,Arsitektur,2022
+5027730693,Natalia Thamrin,Akuntansi,2019
+5027526731,Jamalia Aryani,Desain Produk,2022
+5027915692,Drs. Shania Palastri, M.Farm,Manajemen,2025
+5027153602,Kardi Suryono,Teknik Industri,2023
+5027444503,Hasta Tamba,Teknik Industri,2024
+5027915725,Ana Usada, M.Pd,Teknik Industri,2024
+5027609122,Ani Pudjiastuti,Desain Produk,2020
+5027907081,Prima Riyanti,Akuntansi,2025
+5027392093,Aris Sirait, S.E.I,Sistem Informasi,2020
+5027761460,Eluh Dabukke,Ilmu Komunikasi,2021
+5027550503,Salimah Adriansyah, M.Kom.,Akuntansi,2024
+5027256672,Muhammad Prasasta, S.I.Kom,Ilmu Komunikasi,2024
+5027742742,Dinda Nashiruddin,Teknik Industri,2022
+5027175862,Karya Saputra, M.TI.,Teknik Industri,2022
+5027440570,Salwa Hasanah,Arsitektur,2024
+5027165638,Jarwadi Rahmawati,Akuntansi,2020
+5027526075,Kunthara Permadi,Teknik Industri,2023
+5027157959,Tina Megantara,Teknik Elektro,2025
+5027457857,Viman Pertiwi,Teknik Elektro,2022
+5027650689,Fitria Situmorang, S.IP,Sistem Informasi,2019
+5027563974,Hafshah Pangestu,Akuntansi,2020
+5027688004,Diana Irawan,Arsitektur,2023
+5027282240,Elisa Haryanto,Manajemen,2020
+5027899014,Puti Queen Putra,Akuntansi,2022
+5027299881,Sabrina Padmasari,Teknik Informatika,2021
+5027429362,Dina Putra,Desain Produk,2022
+5027593561,Rahmat Suryatmi,Desain Produk,2023
+5027753388,Shania Pangestu,Manajemen,2025
+5027292688,Wage Wibowo,Teknik Elektro,2023
+5027277715,Cut Irma Oktaviani, S.Farm,Teknik Elektro,2020
+5027424579,Jarwi Prakasa,Desain Produk,2023
+5027833223,Dadi Uwais,Teknik Informatika,2019
+5027724625,Unggul Puspasari,Teknik Elektro,2022
+5027445484,Kenari Puspita,Teknik Elektro,2022
+5027846839,Ade Agustina,Manajemen,2022
+5027558699,Eman Nuraini,Teknik Industri,2025
+5027167390,Dr. Iriana Hardiansyah,Desain Produk,2021
+5027215187,Elma Hassanah,Teknik Elektro,2023
+5027391223,Harsaya Sihombing,Ilmu Komunikasi,2025
+5027759415,Lanang Napitupulu,Teknik Industri,2024
+5027254746,drg. Winda Natsir,Teknik Informatika,2025
+5027626904,Opan Kurniawan, M.TI.,Akuntansi,2023
+5027910659,Okta Hutagalung,Teknik Industri,2024
+5027554563,Ganep Rahimah,Ilmu Komunikasi,2021
+5027607207,Bagus Prasasta, S.Kom,Teknik Informatika,2022
+5027266779,Siti Melani, S.I.Kom,Manajemen,2023
+5027400449,Karen Manullang,Akuntansi,2020
+5027297035,Puti Sadina Uwais, S.Sos,Teknik Industri,2021
+5027431301,Salsabila Puspita,Manajemen,2020
+5027894872,H. Kawaya Mandala,Teknik Industri,2020
+5027847371,Michelle Nugroho,Teknik Elektro,2020
+5027415825,Drs. Gantar Uwais,Ilmu Komunikasi,2019
+5027253934,Tira Ramadan, S.Pt,Sistem Informasi,2022
+5027946579,Galar Permadi,Desain Produk,2023
+5027231482,Violet Hidayat,Ilmu Komunikasi,2025
+5027639863,Endra Halimah,Akuntansi,2022
+5027478510,Dt. Irfan Farida,Manajemen,2019
+5027146206,Kemba Mansur,Desain Produk,2019
+5027309092,Opung Sirait,Teknik Elektro,2022
+5027245588,Karya Wulandari,Arsitektur,2025
+5027978647,Surya Manullang,Teknik Elektro,2025
+5027925813,R.A. Indah Halimah,Sistem Informasi,2021
+5027606009,Uli Nainggolan,Manajemen,2022
+5027435317,T. Luhung Mustofa,Teknik Industri,2019
+5027418806,Almira Suryono,Teknik Elektro,2024
+5027803393,Widya Winarno, M.Ak,Teknik Informatika,2024
+5027565744,Daliono Wibowo, S.Ked,Ilmu Komunikasi,2024
+5027262893,Gabriella Puspasari, M.Kom.,Desain Produk,2024
+5027845137,Dt. Bakda Saragih,Teknik Elektro,2019
+5027183357,KH. Jamil Wijaya, M.TI.,Teknik Industri,2021
+5027904327,Kamaria Putra,Sistem Informasi,2019
+5027969277,Prasetyo Wacana,Manajemen,2019
+5027283365,Dr. Ifa Wasita, M.M.,Teknik Elektro,2021
+5027502247,Puspa Hidayanto,Manajemen,2024
+5027954915,Kajen Prasetyo,Teknik Informatika,2019
+5027712132,Ratih Samosir,Sistem Informasi,2024
+5027367384,Ida Mandala,Arsitektur,2025
+5027539325,Hani Firmansyah, S.Psi,Arsitektur,2020
+5027873788,Rini Sihombing,Teknik Informatika,2024
+5027310471,Yoga Wibisono,Manajemen,2023
+5027632299,Dr. Shakila Wibowo,Arsitektur,2022
+5027570261,Yessi Sihombing, S.E.I,Sistem Informasi,2021
+5027365496,Tgk. Kayla Palastri,Akuntansi,2025
+5027641639,Dr. Hamzah Habibi,Teknik Elektro,2023
+5027677611,Ir. Violet Hartati,Teknik Industri,2022
+5027244596,Puti Kamila Pradipta, S.IP,Teknik Industri,2019
+5027393883,Yance Thamrin, S.T.,Teknik Industri,2019
+5027797019,Jane Tarihoran,Teknik Industri,2021
+5027781869,Chandra Hasanah,Sistem Informasi,2020
+5027543581,Cut Dalima Suryatmi,Desain Produk,2023
+5027128424,Tgk. Farhunnisa Pudjiastuti,Teknik Elektro,2021
+5027962115,Hendri Maulana,Desain Produk,2020
+5027617753,Gara Mandala,Teknik Informatika,2024
+5027445679,Cut Unjani Pradipta,Teknik Informatika,2024
+5027762439,Rini Nugroho,Sistem Informasi,2022
+5027810067,Kurnia Tamba,Manajemen,2023
+5027946835,Drs. Rahayu Latupono, S.Pt,Ilmu Komunikasi,2025
+5027642743,Uli Waluyo,Sistem Informasi,2019
+5027380387,Rini Hariyah,Akuntansi,2021
+5027930896,R.A. Cindy Susanti, M.Ak,Ilmu Komunikasi,2023
+5027211035,Harto Riyanti,Sistem Informasi,2025
+5027194295,Oskar Fujiati,Desain Produk,2019
+5027709289,Limar Maulana,Teknik Elektro,2024
+5027580761,Puti Fitriani Hutagalung,Teknik Elektro,2025
+5027655361,Darmana Prasetyo, M.TI.,Teknik Informatika,2024
+5027725846,H. Kanda Andriani,Manajemen,2019
+5027723170,Dr. Unjani Kurniawan,Desain Produk,2020
+5027186331,Puji Situmorang,Teknik Elektro,2020
+5027264264,Violet Kuswandari,Arsitektur,2023
+5027791192,Laila Usamah,Arsitektur,2020
+5027823350,Ade Mandasari,Desain Produk,2023
+5027603735,Citra Wacana, M.Pd,Ilmu Komunikasi,2021
+5027202552,Ulva Narpati, S.Gz,Teknik Informatika,2021
+5027716058,Tgk. Jasmin Maryadi,Ilmu Komunikasi,2024
+5027683327,Ganep Habibi,Manajemen,2021
+5027444639,Titi Narpati,Sistem Informasi,2020
+5027457393,Gandewa Ardianto,Teknik Elektro,2021
+5027212472,dr. Rahmat Putra,Desain Produk,2023
+5027441770,Hamima Kusmawati,Manajemen,2021
+5027885954,T. Waluyo Yulianti, S.T.,Akuntansi,2022
+5027833835,Julia Prasasta,Manajemen,2025
+5027774904,R.A. Tiara Suartini,Teknik Industri,2021
+5027371245,Dariati Gunarto,Akuntansi,2020
+5027843726,Kadir Rahmawati, S.Farm,Arsitektur,2020
+5027297689,Rafid Kurniawan, M.M.,Arsitektur,2024
+5027323177,Lintang Sitorus,Teknik Industri,2022
+5027248816,Slamet Namaga,Akuntansi,2024
+5027772408,Nardi Prastuti,Teknik Elektro,2022
+5027923277,Novi Ardianto,Sistem Informasi,2022
+5027397432,Kusuma Dongoran, S.Ked,Desain Produk,2024
+5027395798,R.M. Jati Putra, M.Farm,Ilmu Komunikasi,2024
+5027916447,Cornelia Zulkarnain,Teknik Industri,2019
+5027448159,Latif Sihombing,Teknik Elektro,2022
+5027852550,dr. Bahuraksa Riyanti, S.E.,Ilmu Komunikasi,2023
+5027632267,Ihsan Wibowo,Teknik Industri,2022
+5027801047,Cayadi Firgantoro,Manajemen,2023
+5027451170,drg. Vega Marbun, S.IP,Teknik Informatika,2019
+5027666203,Agnes Adriansyah,Arsitektur,2020
+5027264974,Tgk. Gaman Saptono, S.Gz,Manajemen,2022
+5027857780,Drs. Widya Novitasari,Teknik Elektro,2019
+5027860679,H. Rafid Hastuti, S.Gz,Desain Produk,2022
+5027875523,Vera Halim, S.Psi,Manajemen,2025
+5027304351,dr. Laila Melani, M.M.,Sistem Informasi,2019
+5027485337,dr. Vero Pudjiastuti,Arsitektur,2024
+5027157569,Respati Wahyuni,Teknik Industri,2023
+5027456934,Salimah Hassanah,Teknik Elektro,2019
+5027203467,Shakila Kusumo,Akuntansi,2022
+5027580602,Slamet Maryadi,Akuntansi,2021
+5027504848,Radit Palastri,Teknik Elektro,2019
+5027741344,Warta Gunawan,Ilmu Komunikasi,2024
+5027844719,Puput Nasyiah,Ilmu Komunikasi,2019
+5027541987,Edi Utama,Teknik Industri,2022
+5027652679,dr. Ajimat Hariyah, S.T.,Akuntansi,2019
+5027733102,Sabri Kurniawan,Akuntansi,2022
+5027803173,Prima Zulaika,Akuntansi,2021
+5027910407,Lidya Hutapea, S.Farm,Ilmu Komunikasi,2020
+5027593392,Mujur Anggraini,Manajemen,2022
+5027216361,Ikhsan Suryatmi, S.Kom,Teknik Elektro,2021
+5027884026,Putri Nasyidah,Akuntansi,2023
+5027634454,Laila Mandasari,Sistem Informasi,2023
+5027709722,Yulia Rajasa,Teknik Informatika,2020
+5027802616,Mahfud Sihombing,Teknik Industri,2019
+5027267513,Ghaliyati Suryatmi,Desain Produk,2025
+5027907812,Ophelia Nashiruddin,Teknik Informatika,2022
+5027527991,Fathonah Andriani,Akuntansi,2020
+5027854617,Padma Agustina,Sistem Informasi,2019
+5027615713,KH. Oskar Sudiati,Akuntansi,2024
+5027635762,Bajragin Wulandari,Teknik Industri,2024
+5027371567,Gasti Pratiwi,Sistem Informasi,2023
+5027586672,R. Carla Laksmiwati,Manajemen,2019
+5027599820,Dr. Amalia Nugroho, S.Psi,Arsitektur,2019
+5027548987,H. Prasetya Januar,Akuntansi,2021
+5027123598,Drs. Queen Suryatmi,Teknik Industri,2019
+5027835567,dr. Latika Sihotang,Akuntansi,2019
+5027729351,Shakila Hasanah,Sistem Informasi,2025
+5027595793,drg. Asmadi Saptono, M.M.,Desain Produk,2020
+5027771960,H. Jati Zulkarnain,Manajemen,2024
+5027201754,Leo Laksmiwati,Ilmu Komunikasi,2021
+5027116669,Harjasa Mustofa,Ilmu Komunikasi,2020
+5027659154,Ir. Gangsa Maheswara, S.E.,Ilmu Komunikasi,2025
+5027182938,Lanjar Permadi,Teknik Informatika,2020
+5027930490,Bambang Mustofa,Sistem Informasi,2022
+5027220293,Vanya Laksmiwati,Sistem Informasi,2022
+5027305709,R.A. Tari Situmorang, S.Pd,Sistem Informasi,2022
+5027840415,Bakiadi Damanik,Manajemen,2020
+5027991811,Kartika Kuswandari,Teknik Informatika,2023
+5027446969,Abyasa Sinaga,Desain Produk,2023
+5027872086,Jefri Saputra, S.H.,Desain Produk,2022
+5027612904,Drs. Gamani Anggraini,Manajemen,2023
+5027731905,Eka Winarsih,Teknik Informatika,2025
+5027270570,Hesti Nugroho,Arsitektur,2019
+5027971442,Bajragin Oktaviani,Desain Produk,2023
+5027210312,Ir. Cinta Pratiwi, M.Farm,Arsitektur,2021
+5027320851,Uli Rajasa,Sistem Informasi,2024
+5027486652,Zalindra Pratama,Sistem Informasi,2021
+5027182397,Mulyono Hassanah,Manajemen,2025
+5027930412,Vero Nasyidah,Teknik Elektro,2019
+5027929289,Ika Usada,Ilmu Komunikasi,2019
+5027811636,Hafshah Permadi,Ilmu Komunikasi,2022
+5027509795,Embuh Mardhiyah,Ilmu Komunikasi,2019
+5027981799,Drs. Padma Kusumo,Arsitektur,2019
+5027493115,Jati Irawan,Manajemen,2021
+5027724130,Cahyo Zulkarnain, S.H.,Desain Produk,2021
+5027538632,Dacin Nababan,Arsitektur,2025
+5027964752,Amalia Hutapea, S.Pd,Manajemen,2025
+5027551409,Talia Pradipta,Teknik Elektro,2020
+5027694973,Almira Latupono,Ilmu Komunikasi,2021
+5027898385,Fathonah Puspasari,Sistem Informasi,2020
+5027385303,Vivi Winarno,Desain Produk,2021
+5027841515,Drs. Ina Halimah,Desain Produk,2020
+5027221108,Agnes Kusumo,Arsitektur,2023
+5027819783,Digdaya Permadi,Teknik Industri,2025
+5027541876,Dt. Jaswadi Setiawan, S.Kom,Arsitektur,2024
+5027677804,Puput Nainggolan,Teknik Elektro,2022
+5027520404,Unjani Nugroho,Akuntansi,2022
+5027294752,R. Ajeng Najmudin, S.I.Kom,Teknik Elektro,2020
+5027289691,Cut Ana Zulaika,Akuntansi,2024
+5027766034,Eva Firgantoro, S.E.I,Manajemen,2025
+5027394381,Jayadi Kusumo, M.Farm,Teknik Informatika,2021
+5027872413,Dalimin Usamah,Teknik Elektro,2021
+5027737972,Malika Hutasoit,Teknik Elektro,2020
+5027439273,Kenzie Hasanah,Arsitektur,2020
+5027149099,Puti Winda Pranowo, S.H.,Teknik Industri,2021
+5027889532,Reksa Sirait,Teknik Informatika,2020
+5027803459,R.M. Bakianto Permadi, S.I.Kom,Akuntansi,2019
+5027870899,Budi Wastuti,Manajemen,2025
+5027495010,Hj. Vera Hakim,Ilmu Komunikasi,2021
+5027868197,Ir. Hasna Saputra, S.E.I,Ilmu Komunikasi,2020
+5027199423,Caket Siregar,Desain Produk,2024
+5027654434,Aswani Anggraini,Teknik Elektro,2019
+5027834192,Cahyono Mangunsong, S.T.,Teknik Industri,2022
+5027208310,Cut Dinda Hutagalung,Sistem Informasi,2024
+5027997658,Syahrini Damanik,Teknik Informatika,2022
+5027634015,R. Kawaya Suryatmi, M.Pd,Arsitektur,2020
+5027689422,Puspa Irawan, M.Farm,Ilmu Komunikasi,2019
+5027187626,drg. Farhunnisa Januar,Ilmu Komunikasi,2022
+5027934672,H. Maryadi Halimah,Akuntansi,2023
+5027331716,Vanya Thamrin, S.Pd,Teknik Informatika,2025
+5027696496,Maras Safitri,Teknik Elektro,2019
+5027796963,Cut Gabriella Fujiati, S.Gz,Sistem Informasi,2023
+5027185082,T. Mitra Susanti, M.Pd,Ilmu Komunikasi,2020
+5027617252,Slamet Halimah,Desain Produk,2024
+5027226089,Ulya Zulkarnain,Desain Produk,2019
+5027978195,Drs. Daruna Purnawati, S.E.,Teknik Informatika,2022
+5027291294,Cakrajiya Maulana,Akuntansi,2024
+5027642374,Dr. Rusman Sirait,Ilmu Komunikasi,2023
+5027137649,Rina Nugroho, S.IP,Arsitektur,2021
+5027366312,Gandi Zulaika,Manajemen,2022
+5027360798,drg. Zelaya Siregar, M.Kom.,Teknik Elektro,2020
+5027222663,Gaduh Pangestu,Akuntansi,2021
+5027229895,Ana Santoso, S.Kom,Ilmu Komunikasi,2020
+5027330947,Karna Widodo,Teknik Industri,2022
+5027676626,Nova Natsir,Ilmu Komunikasi,2021
+5027488940,Samsul Hasanah,Teknik Elektro,2025
+5027227882,Widya Prasetya, S.Psi,Arsitektur,2021
+5027647707,Puti Zizi Budiyanto, M.Farm,Sistem Informasi,2021
+5027530054,Gandewa Suryatmi,Sistem Informasi,2024
+5027328509,Julia Pangestu,Arsitektur,2025
+5027289691,Bakiadi Halimah,Teknik Informatika,2025
+5027811722,Raina Nasyiah, S.Pt,Arsitektur,2024
+5027835719,T. Latif Agustina,Teknik Elektro,2023
+5027972121,Michelle Kurniawan,Desain Produk,2025
+5027549957,Zaenab Manullang, S.I.Kom,Desain Produk,2022
+5027832769,Jamal Latupono,Manajemen,2019
+5027351990,T. Mustika Mansur,Teknik Informatika,2024
+5027978179,Iriana Laksita,Arsitektur,2020
+5027687966,Zelaya Laksita,Manajemen,2019
+5027758822,Zulaikha Palastri,Arsitektur,2023
+5027931543,Tina Suryatmi,Akuntansi,2025
+5027364409,Drs. Emong Permadi,Sistem Informasi,2024
+5027846219,Shania Suwarno,Desain Produk,2024
+5027873604,Keisha Hartati,Teknik Industri,2022
+5027647584,Bakti Firgantoro,Manajemen,2021
+5027150953,Sarah Prasetyo,Akuntansi,2021
+5027412938,Prayoga Handayani, S.Sos,Akuntansi,2025
+5027401326,Galih Pudjiastuti,Arsitektur,2022
+5027645657,Arta Wahyudin,Desain Produk,2024
+5027637111,Perkasa Sirait, S.E.,Teknik Informatika,2024
+5027959851,Embuh Winarno,Teknik Elektro,2020
+5027889800,Viktor Nugroho,Sistem Informasi,2021
+5027210022,R.M. Banawa Siregar,Manajemen,2021
+5027914283,Prabu Kuswandari, M.Kom.,Ilmu Komunikasi,2023
+5027872637,Artanto Purwanti,Teknik Industri,2022
+5027303724,Tgk. Ciaobella Sirait,Teknik Elektro,2020
+5027904871,Kariman Pratama, S.Psi,Teknik Elektro,2022
+5027650004,Nasab Dongoran,Desain Produk,2021
+5027521876,Cut Hasna Nasyiah,Desain Produk,2023
+5027499400,Rendy Gunawan,Desain Produk,2021
+5027306003,R. Uchita Agustina,Desain Produk,2022
+5027514423,Fathonah Yolanda,Desain Produk,2025
+5027531718,Drs. Prabu Megantara, M.Ak,Teknik Elektro,2020
+5027225638,H. Kardi Farida, S.Kom,Teknik Informatika,2023
+5027540871,Fathonah Siregar,Akuntansi,2021
+5027198153,Ir. Fitria Irawan,Teknik Informatika,2020
+5027464349,Dt. Bagya Prasetyo,Teknik Elektro,2025
+5027493013,Bakiadi Saefullah, S.E.,Manajemen,2023
+5027142966,Kenari Wasita,Manajemen,2024
+5027241139,T. Prabawa Farida,Manajemen,2024
+5027750149,R. Hamima Sitorus,Teknik Elektro,2025
+5027678624,Hj. Syahrini Melani,Arsitektur,2022
+5027874880,Hamima Marpaung,Teknik Informatika,2021
+5027602873,Bella Prakasa,Sistem Informasi,2020
+5027924621,Ilsa Widiastuti,Ilmu Komunikasi,2020
+5027190112,Opung Purwanti,Manajemen,2020
+5027127234,Ir. Legawa Kuswandari,Ilmu Komunikasi,2021
+5027474880,drg. Tira Wacana, M.M.,Arsitektur,2023
+5027616663,Winda Nainggolan,Sistem Informasi,2020
+5027199486,Uda Pertiwi, M.Ak,Ilmu Komunikasi,2024
+5027593380,Zahra Rahimah,Akuntansi,2022
+5027490077,R. Sabrina Mustofa,Sistem Informasi,2019
+5027662721,T. Ikhsan Damanik, S.Farm,Teknik Elektro,2021
+5027948758,R.M. Cengkir Prastuti, S.E.,Teknik Industri,2020
+5027143244,Aisyah Hakim, S.H.,Arsitektur,2024
+5027465466,Tgk. Keisha Usamah, S.I.Kom,Teknik Elektro,2020
+5027765822,Karya Maulana,Sistem Informasi,2024
+5027453626,Ulva Laksita,Teknik Informatika,2020
+5027510941,Rizki Wibowo, S.E.I,Teknik Informatika,2020
+5027947830,drg. Cici Palastri,Sistem Informasi,2025
+5027874393,Zulfa Sirait,Ilmu Komunikasi,2024
+5027340743,Janet Firgantoro,Akuntansi,2019
+5027565616,drg. Gilda Nababan,Teknik Informatika,2022
+5027297294,drg. Endah Maryadi,Akuntansi,2022
+5027363712,Ajeng Permata, S.E.I,Teknik Informatika,2020
+5027142017,Wadi Widodo,Teknik Elektro,2022
+5027710872,Bakidin Hutagalung,Arsitektur,2020
+5027448166,Rahmi Prasetya,Akuntansi,2024
+5027988123,H. Banawa Dongoran, S.Psi,Sistem Informasi,2025
+5027489890,Elisa Budiman,Sistem Informasi,2025
+5027220407,Sutan Daniswara Prasetya,Sistem Informasi,2019
+5027979064,Shania Siregar,Sistem Informasi,2021
+5027591129,Eluh Uwais,Teknik Industri,2020
+5027653953,Tgk. Gabriella Novitasari, M.TI.,Teknik Elektro,2024
+5027424316,Daliman Gunawan,Teknik Informatika,2024
+5027885900,Kamila Simanjuntak,Desain Produk,2022
+5027380117,Aditya Nasyiah,Ilmu Komunikasi,2020
+5027741721,Laras Yuliarti,Sistem Informasi,2020
+5027662875,Chelsea Handayani, S.Pd,Arsitektur,2025
+5027105676,Julia Wastuti,Manajemen,2019
+5027449006,Cagak Mandasari,Manajemen,2023
+5027631386,Tgk. Genta Marbun, M.Kom.,Sistem Informasi,2020
+5027795201,Tiara Mandasari,Akuntansi,2022
+5027475247,Rini Suwarno,Ilmu Komunikasi,2023
+5027562877,R.A. Queen Hardiansyah, M.TI.,Ilmu Komunikasi,2019
+5027281477,Kartika Purnawati,Teknik Elektro,2019
+5027374204,Zulaikha Budiyanto, S.Gz,Arsitektur,2022
+5027371803,Cornelia Anggriawan,Manajemen,2019
+5027714901,Ir. Edi Rahmawati,Ilmu Komunikasi,2020
+5027283721,Capa Waluyo,Sistem Informasi,2023
+5027121822,Enteng Hastuti,Sistem Informasi,2023
+5027623285,Edi Uwais,Teknik Elektro,2021
+5027509651,Satya Wibisono, S.Psi,Arsitektur,2019
+5027189972,Laila Marpaung,Teknik Industri,2021
+5027888833,Padmi Hassanah,Sistem Informasi,2024
+5027974397,Puti Elma Yolanda,Desain Produk,2021
+5027186292,Gawati Utami,Teknik Industri,2023
+5027848162,Kalim Purwanti,Akuntansi,2021
+5027667791,Dr. Humaira Hutasoit, S.Pd,Sistem Informasi,2020
+5027736888,Karimah Laksmiwati,Teknik Industri,2019
+5027262642,Nyana Prasetyo,Manajemen,2023
+5027122618,Elisa Sirait,Ilmu Komunikasi,2024
+5027282036,Asirwanda Firgantoro,Teknik Industri,2025
+5027958703,Ade Gunarto,Teknik Elektro,2020
+5027424705,Irma Siregar,Desain Produk,2025
+5027312833,Nyana Astuti,Teknik Industri,2025
+5027154767,dr. Rusman Lailasari,Sistem Informasi,2025
+5027631667,Prakosa Wahyudin,Teknik Elektro,2020
+5027210374,Eka Melani,Akuntansi,2022
+5027431131,KH. Marsito Sirait, S.Sos,Arsitektur,2023
+5027718305,Dian Lailasari,Arsitektur,2020
+5027577096,Darsirah Marpaung,Arsitektur,2019
+5027529629,Prayogo Saragih, S.Pt,Manajemen,2024
+5027412325,Intan Laksmiwati,Manajemen,2025
+5027103297,dr. Asmianto Yuliarti,Manajemen,2023
+5027476470,Zulaikha Usada,Desain Produk,2022
+5027718036,drg. Ida Hutapea, M.Ak,Teknik Industri,2021
+5027364122,Ir. Darmaji Santoso,Desain Produk,2020
+5027218396,Luwar Ramadan,Ilmu Komunikasi,2021
+5027980433,Syahrini Haryanto,Ilmu Komunikasi,2022
+5027766570,Lasmono Prakasa,Arsitektur,2020
+5027492943,Jumadi Pranowo,Teknik Elektro,2019
+5027284580,R.M. Danang Wasita,Sistem Informasi,2019
+5027994905,Jasmin Prastuti,Ilmu Komunikasi,2024
+5027817693,Bahuwarna Ardianto,Desain Produk,2022
+5027872444,Sutan Gandi Narpati,Akuntansi,2021
+5027626925,Aurora Astuti,Manajemen,2024
+5027959858,Ir. Rahayu Thamrin, S.H.,Arsitektur,2023
+5027764398,Lili Palastri, M.Pd,Teknik Industri,2021
+5027494550,Puput Nugroho, M.TI.,Teknik Informatika,2024
+5027536677,Queen Usamah,Manajemen,2022
+5027850321,Rika Thamrin,Arsitektur,2019
+5027410603,drg. Raharja Andriani,Desain Produk,2022
+5027226252,Vero Manullang,Desain Produk,2021
+5027570653,Irma Mandasari,Teknik Industri,2021
+5027526307,Mujur Simbolon, M.TI.,Teknik Industri,2023
+5027516100,Padmi Habibi,Manajemen,2024
+5027473121,Simon Thamrin,Sistem Informasi,2024
+5027548209,Yunita Anggraini,Akuntansi,2025
+5027642272,Nabila Narpati,Desain Produk,2022
+5027517482,Umi Maryadi,Ilmu Komunikasi,2022
+5027351315,Ana Wulandari,Sistem Informasi,2019
+5027230674,Dr. Karsa Suwarno, M.TI.,Sistem Informasi,2022
+5027671423,Dirja Narpati,Ilmu Komunikasi,2019
+5027104548,Asman Safitri, M.Farm,Teknik Informatika,2022
+5027418595,drg. Maria Manullang, S.Kom,Ilmu Komunikasi,2020
+5027557891,drg. Ida Wasita,Sistem Informasi,2024
+5027610884,Ir. Kania Budiman,Arsitektur,2022
+5027763919,Ilsa Firgantoro,Ilmu Komunikasi,2024
+5027644266,Elisa Mayasari,Teknik Industri,2023
+5027243629,Nrima Tarihoran,Sistem Informasi,2025
+5027223694,Putri Ramadan, S.Farm,Arsitektur,2020
+5027899318,Karta Prakasa,Manajemen,2021
+5027820682,Naradi Oktaviani,Manajemen,2021
+5027669912,Drs. Bakti Dabukke,Sistem Informasi,2019
+5027597978,Paulin Maryadi,Sistem Informasi,2023
+5027263985,Prakosa Hasanah, S.Pt,Akuntansi,2022
+5027342609,Tasnim Maryati,Ilmu Komunikasi,2021
+5027268100,Ibrahim Latupono,Ilmu Komunikasi,2021
+5027967428,Ajiono Nasyidah, S.T.,Teknik Informatika,2019
+5027827877,R. Zelaya Suryatmi,Teknik Elektro,2020
+5027152536,H. Lutfan Damanik,Sistem Informasi,2025
+5027192090,Ian Prasetya,Sistem Informasi,2023
+5027895283,Dt. Jayeng Hastuti,Desain Produk,2023
+5027391707,Jasmin Nuraini, M.Ak,Desain Produk,2022
+5027560776,Carub Mandasari,Manajemen,2024
+5027850578,Bakijan Hutagalung,Teknik Informatika,2020
+5027253349,Tgk. Dartono Maulana, S.Gz,Teknik Elektro,2024
+5027285623,Anastasia Wasita,Desain Produk,2021
+5027217961,Widya Susanti,Teknik Informatika,2024
+5027688676,Kusuma Prasetya,Teknik Informatika,2023
+5027860643,Tiara Suartini,Ilmu Komunikasi,2025
+5027213411,Julia Yulianti,Teknik Elektro,2025
+5027939023,Kacung Rahayu,Teknik Industri,2023
+5027919945,Ir. Puti Wacana, M.Farm,Arsitektur,2020
+5027872254,drg. Nilam Sirait,Teknik Elektro,2024
+5027883203,Caket Wibisono,Ilmu Komunikasi,2023
+5027499399,Betania Prasasta,Desain Produk,2019
+5027666381,Maya Laksmiwati,Manajemen,2023
+5027399857,Ika Najmudin,Akuntansi,2022
+5027299413,Keisha Kurniawan,Teknik Informatika,2021
+5027466540,Talia Gunawan,Teknik Elektro,2023
+5027668867,Nardi Pratama,Teknik Informatika,2023
+5027608561,Ir. Jasmin Firmansyah, S.Sos,Teknik Elektro,2024
+5027207558,R. Eka Nashiruddin,Ilmu Komunikasi,2024
+5027707380,Drs. Candrakanta Lestari, M.Kom.,Ilmu Komunikasi,2025
+5027886011,Nova Kusumo,Teknik Elektro,2022
+5027788635,Ajiman Sirait,Akuntansi,2023
+5027849576,Dt. Jindra Hasanah,Manajemen,2019
+5027433055,Gambira Pranowo,Manajemen,2021
+5027525594,Yono Simanjuntak,Desain Produk,2025
+5027368107,Kairav Kusmawati, M.Pd,Teknik Industri,2021
+5027889359,Elvin Wibisono, S.Kom,Desain Produk,2021
+5027930909,Ir. Suci Prabowo, M.Ak,Desain Produk,2025
+5027187479,Yunita Mangunsong,Akuntansi,2022
+5027391494,R.M. Rizki Palastri,Arsitektur,2019
+5027161590,Xanana Suryatmi,Akuntansi,2020
+5027249148,Kezia Lestari,Ilmu Komunikasi,2021
+5027512443,Cut Siti Hassanah,Sistem Informasi,2025
+5027548449,Queen Napitupulu,Arsitektur,2019
+5027194740,Hj. Ghaliyati Mansur, S.Kom,Manajemen,2024
+5027508616,dr. Gasti Novitasari,Arsitektur,2022
+5027354670,Dt. Yusuf Hartati,Teknik Informatika,2023
+5027596768,Paiman Laksmiwati,Teknik Industri,2025
+5027310346,Nurul Aryani, S.H.,Arsitektur,2024
+5027467457,Alika Wibisono,Sistem Informasi,2025
+5027184572,Nyana Utama, M.Farm,Teknik Elektro,2025
+5027554564,Wardaya Namaga,Teknik Elektro,2022
+5027960987,Rika Usada,Teknik Elektro,2024
+5027993295,Sarah Mandasari,Teknik Informatika,2019
+5027420663,Ayu Megantara,Desain Produk,2023
+5027422945,Silvia Handayani,Ilmu Komunikasi,2025
+5027396639,Irma Nuraini,Arsitektur,2019
+5027592390,Samiah Nugroho,Ilmu Komunikasi,2019
+5027830863,dr. Tirta Purwanti,Arsitektur,2019
+5027487868,Tira Fujiati,Sistem Informasi,2023
+5027923557,Ajimin Wibisono,Teknik Elektro,2023
+5027825359,Ulva Purwanti, S.Kom,Ilmu Komunikasi,2019
+5027352777,Sidiq Kusmawati,Sistem Informasi,2023
+5027310964,Devi Adriansyah,Teknik Elektro,2019
+5027575695,Cut Elvina Saefullah, S.Ked,Ilmu Komunikasi,2021
+5027785144,Jumadi Uyainah,Akuntansi,2022
+5027477830,Tgk. Wira Najmudin,Desain Produk,2020
+5027616801,R. Leo Nashiruddin, M.Pd,Sistem Informasi,2023
+5027943124,Gabriella Utama, M.Pd,Manajemen,2022
+5027990720,Puti Queen Utama, S.Gz,Manajemen,2023
+5027471663,Nasrullah Thamrin,Teknik Informatika,2022
+5027535883,Nardi Wulandari, S.Pd,Arsitektur,2023
+5027949983,Cut Unjani Sinaga, S.Farm,Arsitektur,2023
+5027870692,Sutan Banara Kusmawati,Desain Produk,2024
+5027602355,Cakrajiya Hakim,Arsitektur,2023
+5027473940,Lintang Damanik,Manajemen,2023
+5027892939,drg. Asirwada Nababan, S.I.Kom,Teknik Informatika,2021
+5027463567,Putri Haryanto,Desain Produk,2021
+5027255571,drg. Betania Prasetya, S.Pd,Akuntansi,2025
+5027241641,Bancar Nababan,Desain Produk,2021
+5027276772,Yessi Pradipta,Akuntansi,2020
+5027444764,Puti Mala Permadi, M.Pd,Teknik Industri,2024
+5027438830,Salman Nashiruddin,Ilmu Komunikasi,2022
+5027529103,Karma Wulandari,Sistem Informasi,2024
+5027612496,Puti Padma Napitupulu, M.Farm,Desain Produk,2023
+5027505360,Salwa Mulyani, S.IP,Teknik Informatika,2019
+5027421493,Dr. Titin Siregar,Akuntansi,2019
+5027271894,Drs. Nadine Waluyo,Sistem Informasi,2020
+5027551763,R.A. Ayu Usamah,Ilmu Komunikasi,2024
+5027560074,Gandewa Budiyanto, S.E.,Teknik Elektro,2025
+5027680563,R. Jati Ardianto, M.Ak,Teknik Industri,2020
+5027116734,Drs. Gading Saptono,Akuntansi,2019
+5027194663,drg. Zelaya Zulkarnain, M.M.,Sistem Informasi,2021
+5027523780,Harsanto Natsir,Desain Produk,2023
+5027369103,dr. Kasim Tamba,Teknik Industri,2020
+5027671817,Umaya Tarihoran,Ilmu Komunikasi,2024
+5027330150,Irsad Hakim,Desain Produk,2021
+5027374019,Cut Kamila Adriansyah,Manajemen,2020
+5027785945,Dodo Kuswoyo,Ilmu Komunikasi,2024
+5027121682,Salimah Siregar,Ilmu Komunikasi,2023
+5027257458,Jasmin Mulyani,Ilmu Komunikasi,2020
+5027513405,Pangeran Uyainah,Manajemen,2021
+5027328684,Cinta Yuniar,Desain Produk,2021
+5027418642,Rusman Sirait,Ilmu Komunikasi,2022
+5027861361,Vera Putra,Desain Produk,2023
+5027493065,Ifa Kusumo,Desain Produk,2023
+5027998301,Adinata Habibi, S.T.,Teknik Industri,2025
+5027121722,Carla Rajata,Teknik Informatika,2019
+5027969864,R. Ayu Putra,Sistem Informasi,2020
+5027286102,Hj. Dinda Maryati,Arsitektur,2024
+5027136470,R. Maman Farida,Manajemen,2022
+5027724859,Ir. Gada Zulkarnain,Akuntansi,2023
+5027355962,Lantar Kurniawan,Sistem Informasi,2021
+5027675609,Kasiyah Palastri, M.TI.,Manajemen,2022
+5027571549,Hana Maulana,Teknik Industri,2019
+5027561321,Erik Prabowo,Teknik Elektro,2023
+5027632153,Dian Anggraini,Akuntansi,2019
+5027893380,Drs. Rizki Prastuti, S.Gz,Arsitektur,2023
+5027694168,Prima Farida,Ilmu Komunikasi,2024
+5027845708,drg. Silvia Nurdiyanti,Akuntansi,2023
+5027898009,Emas Rahmawati,Sistem Informasi,2021
+5027240340,Nova Damanik, M.Ak,Ilmu Komunikasi,2021
+5027616223,Violet Nababan,Manajemen,2021
+5027570043,Dimas Sihotang,Manajemen,2021
+5027871671,drg. Ami Padmasari, M.Pd,Ilmu Komunikasi,2020
+5027484650,Tgk. Harjasa Laksita,Teknik Elektro,2020
+5027804442,Ratih Mulyani,Manajemen,2021
+5027232387,Cawisadi Melani,Teknik Industri,2025
+5027535753,Gamblang Fujiati,Teknik Informatika,2022
+5027496359,Tgk. Ridwan Tamba,Teknik Elektro,2024
+5027502228,Unjani Haryanti,Arsitektur,2021
+5027584963,Oni Situmorang,Sistem Informasi,2024
+5027713757,Hana Nugroho,Arsitektur,2024
+5027753506,Ajeng Winarsih,Teknik Industri,2019
+5027297131,Maya Hariyah,Teknik Elektro,2021
+5027324010,Ade Nainggolan, S.Ked,Teknik Industri,2025
+5027869228,Prabowo Manullang, M.Pd,Ilmu Komunikasi,2023
+5027145504,Vanesa Safitri,Desain Produk,2023
+5027780442,Eman Saefullah,Manajemen,2023
+5027955938,Iriana Aryani,Sistem Informasi,2024
+5027101220,Hasna Hardiansyah,Teknik Elektro,2020
+5027346429,Ir. Putri Pangestu, M.Farm,Teknik Elektro,2023
+5027605782,Elisa Nababan, S.Farm,Desain Produk,2022
+5027511250,Ulya Usamah, S.E.,Manajemen,2023
+5027386539,Lalita Halimah,Manajemen,2021
+5027465450,Edi Kuswoyo,Teknik Industri,2021
+5027139449,Prima Prabowo,Teknik Industri,2020
+5027799346,dr. Asirwada Widiastuti,Ilmu Komunikasi,2024
+5027446751,Ajiono Siregar, S.H.,Arsitektur,2024
+5027606689,Jamil Pudjiastuti,Ilmu Komunikasi,2019
+5027819988,Gina Maryadi,Teknik Industri,2021
+5027108977,Eluh Sihombing,Akuntansi,2021
+5027268020,Drs. Gasti Irawan,Teknik Informatika,2023
+5027456188,Salimah Rahmawati,Akuntansi,2022
+5027214307,Paulin Hakim,Teknik Industri,2023
+5027187021,dr. Zulaikha Uyainah, S.Pt,Ilmu Komunikasi,2021
+5027736148,KH. Jumadi Hidayat,Desain Produk,2022
+5027705163,Julia Simbolon,Manajemen,2020
+5027768811,Tantri Kuswandari, M.TI.,Teknik Informatika,2023
+5027813277,Lili Permata, S.Pt,Desain Produk,2024
+5027169339,Balijan Fujiati, S.T.,Ilmu Komunikasi,2025
+5027571260,Violet Wijaya,Sistem Informasi,2025
+5027796159,Puti Maya Adriansyah,Arsitektur,2021
+5027214912,Raina Ardianto,Teknik Informatika,2024
+5027990334,Saiful Prabowo,Arsitektur,2023
+5027749413,Anita Sitompul,Manajemen,2023
+5027144579,Gawati Farida, S.Pt,Teknik Elektro,2022
+5027105924,Atmaja Hutagalung, S.Farm,Teknik Elektro,2023
+5027903239,dr. Wawan Hidayanto,Arsitektur,2021
+5027501506,Ophelia Mansur, S.T.,Ilmu Komunikasi,2022
+5027593926,Drs. Rafi Natsir, S.IP,Teknik Industri,2023
+5027881933,Kajen Pertiwi,Akuntansi,2020
+5027342423,Prakosa Prasetyo,Teknik Elektro,2024
+5027186350,drg. Tami Usamah, S.I.Kom,Sistem Informasi,2021
+5027449421,Drajat Narpati,Arsitektur,2024
+5027993752,Zahra Putra,Manajemen,2020
+5027187144,Puti Laila Sudiati, M.Ak,Akuntansi,2025
+5027869031,Dewi Puspita,Sistem Informasi,2022
+5027465769,Yusuf Saputra,Akuntansi,2024
+5027370617,drg. Nasab Damanik, S.IP,Arsitektur,2020
+5027856184,Radika Sirait,Ilmu Komunikasi,2024
+5027898212,Zamira Ramadan, S.Gz,Sistem Informasi,2025
+5027516328,Ciaobella Rajasa,Sistem Informasi,2024
+5027428560,Mila Nasyidah,Akuntansi,2019
+5027787645,Dagel Prakasa,Arsitektur,2023
+5027602510,Salwa Lailasari, S.Pd,Akuntansi,2023
+5027990453,Bakti Yolanda,Akuntansi,2019
+5027454771,Harto Sudiati,Ilmu Komunikasi,2024
+5027191157,Gina Anggriawan,Ilmu Komunikasi,2024
+5027859359,Nabila Prastuti,Manajemen,2025
+5027273296,Arsipatra Zulaika,Sistem Informasi,2022
+5027219683,Julia Adriansyah,Teknik Elektro,2019
+5027929821,Safina Safitri,Teknik Elektro,2021
+5027820845,Galih Puspasari,Sistem Informasi,2021
+5027836376,Galang Gunawan, S.Gz,Teknik Elektro,2022
+5027475787,Ani Hutasoit,Sistem Informasi,2019
+5027684736,Upik Susanti,Ilmu Komunikasi,2021
+5027942997,Dewi Pertiwi,Akuntansi,2022
+5027214471,Ina Rahimah,Manajemen,2024
+5027838515,Dr. Lega Wijayanti, M.Pd,Ilmu Komunikasi,2023
+5027237501,Tgk. Nadia Purnawati,Teknik Industri,2022
+5027864576,Kardi Saefullah, S.E.I,Teknik Elektro,2019
+5027235331,Kartika Lazuardi,Sistem Informasi,2023
+5027405357,Setya Ardianto,Teknik Industri,2021
+5027217189,Prasetya Pratiwi,Sistem Informasi,2023
+5027388698,Pranawa Wahyuni,Arsitektur,2021
+5027218130,Taswir Irawan,Teknik Informatika,2024
+5027940086,Putri Wahyudin, S.Psi,Manajemen,2022
+5027944202,Rika Damanik,Arsitektur,2024
+5027303059,Paulin Suryatmi,Teknik Elektro,2024
+5027595999,R. Vanya Hutasoit,Teknik Industri,2019
+5027699128,R. Cager Maheswara, M.Pd,Manajemen,2020
+5027887478,Gaduh Siregar,Arsitektur,2021
+5027348716,Timbul Maryadi, S.Farm,Akuntansi,2024
+5027510762,Jarwa Tamba,Teknik Elektro,2019
+5027842108,Irwan Mardhiyah, M.Ak,Teknik Elektro,2022
+5027913035,R. Respati Hasanah, M.Farm,Desain Produk,2025
+5027995282,Tiara Simanjuntak,Ilmu Komunikasi,2020
+5027901782,Ida Nurdiyanti,Arsitektur,2020
+5027588618,drg. Laras Prasetyo, S.Farm,Desain Produk,2020
+5027109028,Syahrini Zulaika,Akuntansi,2024
+5027210923,Jono Suwarno,Teknik Elektro,2024
+5027286757,Adinata Sudiati, S.Pt,Teknik Informatika,2024
+5027483827,Halima Hutagalung,Ilmu Komunikasi,2021
+5027651700,Gambira Zulkarnain,Sistem Informasi,2019
+5027211120,Ayu Suartini, S.E.,Arsitektur,2021
+5027351753,Rusman Prayoga,Teknik Industri,2020
+5027538789,Edward Widodo,Sistem Informasi,2020
+5027297256,Eka Thamrin,Teknik Informatika,2021
+5027393483,Fathonah Maulana, M.Farm,Arsitektur,2025
+5027915371,Tgk. Irfan Mardhiyah,Teknik Informatika,2021
+5027983400,drg. Utama Sihombing,Arsitektur,2019
+5027186569,Raisa Suartini,Desain Produk,2025
+5027817949,Nadine Usamah,Teknik Informatika,2019
+5027347471,Gatot Palastri,Teknik Informatika,2025
+5027367243,Drs. Ilsa Nashiruddin, S.Psi,Manajemen,2023
+5027624995,Dodo Puspita,Teknik Elektro,2021
+5027501788,Hj. Ira Agustina, S.Pt,Teknik Informatika,2021
+5027591845,Bambang Iswahyudi,Teknik Informatika,2025
+5027124210,Bahuwarna Simbolon,Teknik Industri,2022
+5027894176,Julia Hutapea,Teknik Elektro,2020
+5027454775,Hj. Elisa Yuniar,Arsitektur,2020
+5027954137,Yoga Nainggolan,Ilmu Komunikasi,2025
+5027731389,Ophelia Kurniawan,Desain Produk,2023
+5027419048,Victoria Hassanah,Akuntansi,2022
+5027168207,T. Mustika Nurdiyanti, S.E.,Teknik Informatika,2023
+5027261336,Lidya Suryatmi,Akuntansi,2022
+5027655958,Jessica Winarno, M.M.,Sistem Informasi,2019
+5027200524,R. Keisha Pratama,Teknik Industri,2025
+5027793223,Dr. Tirta Kurniawan, M.Ak,Desain Produk,2022
+5027895035,Marsudi Tampubolon,Akuntansi,2021
+5027626451,drg. Salsabila Hardiansyah, S.Kom,Manajemen,2025
+5027594047,Iriana Yulianti,Sistem Informasi,2022
+5027833516,Yessi Kusumo,Arsitektur,2021
+5027900045,Icha Yuliarti,Manajemen,2022
+5027987681,KH. Luis Utama,Arsitektur,2024
+5027236004,Clara Lestari,Manajemen,2020
+5027786333,Padmi Hassanah,Akuntansi,2024
+5027116002,Ida Yuliarti,Akuntansi,2019
+5027896376,Cut Maida Uyainah,Teknik Elektro,2024
+5027450525,Raharja Iswahyudi, S.Pd,Sistem Informasi,2024
+5027775776,Nilam Permata,Arsitektur,2024
+5027301671,Karen Sudiati, S.E.,Akuntansi,2024
+5027547052,KH. Bakiono Wahyuni,Teknik Elektro,2025
+5027755141,Cut Zelaya Hartati, M.TI.,Manajemen,2022
+5027808930,Limar Wijayanti,Ilmu Komunikasi,2024
+5027751699,R. Mustika Kuswoyo,Desain Produk,2025
+5027409654,Bagus Sihombing,Sistem Informasi,2025
+5027919268,Drs. Lantar Megantara,Teknik Industri,2020
+5027970570,Zelaya Padmasari,Teknik Informatika,2024
+5027593878,Kasiyah Jailani, M.Kom.,Akuntansi,2019
+5027626090,Calista Haryanti,Teknik Elektro,2023
+5027251071,Paiman Nurdiyanti,Arsitektur,2022
+5027126543,Kani Situmorang, S.T.,Ilmu Komunikasi,2024
+5027164502,Kariman Mustofa,Ilmu Komunikasi,2025
+5027439895,Cut Zaenab Prayoga, S.Gz,Teknik Industri,2020
+5027992261,Nardi Winarsih,Sistem Informasi,2022
+5027698384,Sadina Latupono,Arsitektur,2021
+5027938280,Zalindra Suryatmi,Manajemen,2019
+5027834709,Tgk. Adika Wastuti, S.Ked,Manajemen,2025
+5027678657,Rahman Damanik,Manajemen,2020
+5027619543,Ir. Mursinin Pratiwi, M.TI.,Desain Produk,2019
+5027920866,R.M. Laksana Purwanti, S.E.,Teknik Industri,2025
+5027313211,Jagaraga Pratama,Arsitektur,2020
+5027279865,Syahrini Suryono,Teknik Informatika,2025
+5027476228,Makara Wibisono, M.TI.,Teknik Elektro,2021
+5027551384,Dr. Padmi Ramadan, S.Pd,Teknik Industri,2021
+5027229383,Septi Nainggolan,Sistem Informasi,2022
+5027652695,Siska Suryatmi,Sistem Informasi,2020
+5027208179,Agus Prasasta,Manajemen,2023
+5027514285,Viman Pranowo,Sistem Informasi,2021
+5027149131,Lasmanto Kuswandari,Akuntansi,2020
+5027695828,R.A. Lidya Saragih,Sistem Informasi,2020
+5027165802,Ir. Rachel Hidayanto, M.Pd,Akuntansi,2023
+5027115875,Chandra Halim, S.Farm,Manajemen,2025
+5027487808,Dodo Prabowo,Manajemen,2019
+5027545882,Cawisadi Rahmawati,Teknik Elektro,2022
+5027653146,Joko Lazuardi,Manajemen,2025
+5027134946,Tami Rahmawati, M.TI.,Akuntansi,2019
+5027203136,Tgk. Kania Prastuti,Sistem Informasi,2024
+5027413729,Yani Hakim,Ilmu Komunikasi,2020
+5027405052,Winda Tamba,Ilmu Komunikasi,2019
+5027352403,Taswir Puspita,Teknik Elektro,2023
+5027752811,Kiandra Fujiati, S.Farm,Teknik Industri,2021
+5027622564,dr. Rachel Permadi,Akuntansi,2022
+5027768260,Reksa Pratiwi,Arsitektur,2020
+5027273168,Chelsea Januar, M.Farm,Teknik Informatika,2021
+5027668291,KH. Rahman Setiawan, S.Ked,Akuntansi,2021
+5027143595,Kuncara Mandala,Desain Produk,2025
+5027326904,Restu Permata, M.Pd,Sistem Informasi,2019
+5027409607,Humaira Dongoran,Sistem Informasi,2024
+5027717484,Hasna Aryani,Arsitektur,2021
+5027818931,Cahyanto Nasyidah, S.E.,Akuntansi,2019
+5027226455,Dr. Karma Yuliarti,Desain Produk,2025
+5027168864,Vanya Tarihoran,Teknik Informatika,2021
+5027555171,Cahyo Waskita,Manajemen,2019
+5027235335,Kalim Latupono,Ilmu Komunikasi,2022
+5027746087,Sutan Kenes Mardhiyah, S.Gz,Ilmu Komunikasi,2020
+5027891319,Agnes Kusmawati,Teknik Informatika,2020
+5027994968,Kayla Hutapea,Desain Produk,2019
+5027475216,Kawaya Rahimah, M.Farm,Akuntansi,2022
+5027245496,Elvin Pradana,Arsitektur,2022
+5027929385,Vivi Pratama,Teknik Industri,2021
+5027825852,Laras Nasyiah,Manajemen,2023
+5027285769,Puti Winda Samosir,Ilmu Komunikasi,2024
+5027705275,Carub Wasita,Teknik Industri,2020
+5027213407,Hairyanto Firmansyah,Desain Produk,2025
+5027293984,Makuta Firmansyah,Arsitektur,2021
+5027647577,dr. Halima Najmudin,Teknik Informatika,2025
+5027123810,Victoria Winarno,Desain Produk,2022
+5027739223,Kalim Hasanah,Teknik Industri,2020
+5027316247,Vinsen Ardianto,Manajemen,2022
+5027458493,Sabar Anggraini, S.E.I,Manajemen,2022
+5027116954,R.M. Jayeng Mulyani, S.I.Kom,Desain Produk,2021
+5027824077,Ajiman Sihombing,Teknik Industri,2019
+5027920512,KH. Kayun Pratiwi, M.Farm,Teknik Industri,2022
+5027277826,Ir. Yunita Hariyah,Desain Produk,2025
+5027388276,Drs. Bakiman Widiastuti, M.TI.,Arsitektur,2021
+5027549227,Cut Ella Rahimah, S.Pt,Manajemen,2025
+5027899062,Gamanto Budiman,Manajemen,2019
+5027926633,Raina Puspasari,Manajemen,2023
+5027154192,Yosef Mandala,Teknik Informatika,2020
+5027220554,Faizah Wulandari,Ilmu Komunikasi,2020
+5027427147,Nasab Maheswara, S.IP,Teknik Industri,2024
+5027892292,Uchita Wijayanti,Sistem Informasi,2025
+5027407097,Dr. Calista Marbun, S.Pt,Teknik Elektro,2023
+5027414916,Tiara Zulkarnain, M.Ak,Teknik Informatika,2021
+5027408966,Paris Marpaung,Akuntansi,2025
+5027979919,Malika Winarno,Teknik Industri,2023
+5027325427,Drs. Keisha Purnawati, M.Ak,Ilmu Komunikasi,2021
+5027574882,Julia Wijayanti,Teknik Informatika,2021
+5027119020,Lili Mangunsong,Akuntansi,2023
+5027470391,Prayoga Kurniawan,Manajemen,2022
+5027956029,Ulva Sihombing, S.Kom,Arsitektur,2019
+5027454598,R. Jarwi Pradipta, M.Farm,Teknik Informatika,2019
+5027747151,Gara Gunawan, S.Pd,Arsitektur,2020
+5027688199,Melinda Suwarno,Ilmu Komunikasi,2021
+5027586576,Ilsa Waluyo, S.Psi,Teknik Elektro,2024
+5027539192,Karta Suryono,Ilmu Komunikasi,2025
+5027284803,Patricia Nuraini,Teknik Elektro,2025
+5027350530,Dr. Pia Irawan, M.Pd,Akuntansi,2024
